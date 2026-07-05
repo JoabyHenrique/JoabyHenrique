@@ -6,24 +6,27 @@
 
 Sou estudante de Engenharia de Software e estou construindo minha jornada rumo a me tornar um desenvolvedor Full Stack. Gosto igualmente das duas pontas do desenvolvimento:
 
-🔧 Back-end: a magia por trás de tudo — criar servidores, modelar dados e projetar APIs que realmente funcionam.
+🔧 Back-end: a magia por trás de tudo, criar servidores, modelar dados e projetar APIs que realmente funcionam.
 
 🎨 Front-end: dar vida a essa lógica em telas bonitas, intuitivas e agradáveis para quem vai usar.
 
-Este repositório reúne minhas práticas acadêmicas, projetos de estudo e materiais baseados em conteúdos que acompanho no YouTube — um espaço para documentar minha evolução como desenvolvedor.
+Este repositório reúne minhas práticas acadêmicas, projetos de estudo e materiais baseados em conteúdos que acompanho no YouTube, um espaço para documentar minha evolução como desenvolvedor.
 
 ### 📚 O que você vai encontrar por aqui
 
 
 📁 Exercícios e projetos desenvolvidos durante a faculdade
+
 🎥 Códigos e anotações baseados em tutoriais e cursos do YouTube
+
 🧩 Pequenos projetos para fixar conceitos de lógica, back-end e front-end
+
 📈 Meu progresso rumo ao Full Stack
 
 <p align="left">
     <a href="https://www.youtube.com/@joaby.engsoftware">
         <img 
-            alt="youtube" 
+            alt="Canal Youtube" 
             title="Inscreva-se no meu canal" 
         />
     </a>
